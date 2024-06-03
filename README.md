@@ -2,7 +2,7 @@ Hola 👋, soy Ruxyen
 
 Un desarrollador FullStack, pero mi especialidad es el FrontEnd.
 
-🔭 Actualmente estoy trabajando en ""
+🔭 Actualmente estoy disponible en mi portafolio, estoy disponible para aceptar una oferta de trabajo.
 
 📫 Cómo contactarme: rubenteruel2004@gmail.com
 
