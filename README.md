@@ -33,13 +33,13 @@ AQUÍ UN LISTADO CON LOS CONOCIMIENTOS OBTENIDOS:
 
 #### Pendientes:
 
-	**FRONTEND**
+**FRONTEND**
 
 - Angular
 - TypeScript
 - Vue.js
 
-	**BACKEND**
+**BACKEND**
 
 - Symfony (framework PHP)
 - Lumen (framework PHP)
@@ -47,7 +47,7 @@ AQUÍ UN LISTADO CON LOS CONOCIMIENTOS OBTENIDOS:
 - Ruby on Rails (framework Ruby)
 - C# (.NET)
 
-	**BASES DE DATOS**
+**BASES DE DATOS**
 
 - PostgreSQL
 
