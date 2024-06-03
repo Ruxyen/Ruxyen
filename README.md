@@ -40,7 +40,6 @@ Hola 👋, soy Ruxyen. Soy un desarrollador FullStack especializado principalmen
 **BACKEND**
 
 - Ruby
-- Python
 - C#
 - Go
 
