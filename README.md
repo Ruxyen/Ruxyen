@@ -30,20 +30,20 @@ Hola 👋, soy Ruxyen. Soy un desarrollador FullStack especializado principalmen
 
 #### Pendientes:
 
-**Frontend:**
+**FRONTEND**
 
 - Angular
 - TypeScript
 - Vue.js
 
-**Backend:**
+**BACKEND**
 
 - Ruby
 - Python
 - C#
 - Go
 
-**Bases de Datos:**
+**BASES DE DATOS**
 
 - MariaDB
 - PostgreSQL
