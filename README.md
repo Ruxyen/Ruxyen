@@ -26,7 +26,7 @@ Hola 👋, soy Ruxyen. Soy un desarrollador FullStack especializado principalmen
 
 **Bases de Datos:**
 
-<img src="https://p1.hiclipart.com/preview/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clipart.jpg" width="50" height="50">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3628940-3030165.png?f=webp" width="50" height="50">
 <img src="https://www.poolsawat.com/wp-content/uploads/2015/07/mongodb.png" width="50" height="50"> <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="50" height="50">
 
 #### Pendientes:
