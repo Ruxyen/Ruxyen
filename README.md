@@ -46,7 +46,6 @@ Hola 👋, soy Ruxyen. Soy un desarrollador FullStack especializado principalmen
 
 **BASES DE DATOS**
 
-- MariaDB
 - PostgreSQL
 
 -- Rubén Teruel --
