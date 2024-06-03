@@ -39,9 +39,11 @@ Hola 👋, soy Ruxyen. Soy un desarrollador FullStack especializado principalmen
 
 **BACKEND**
 
+- Symfony (framework PHP)
+- Lumen (framework PHP)
 - Ruby
-- C#
-- Go
+- Ruby on Rails (framework Ruby)
+- C# (.NET)
 
 **BASES DE DATOS**
 
