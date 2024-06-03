@@ -18,7 +18,8 @@ Hola 👋, soy Ruxyen. Soy un desarrollador FullStack especializado principalmen
 
 **Lenguajes:**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"> <img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-zjxns1zh.png" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"> <img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-zjxns1zh.png" width="50" height="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50"> 
 
 **Frameworks/Librerías:**
 
