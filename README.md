@@ -4,7 +4,7 @@ Hola 👋, soy Ruxyen. Soy un desarrollador FullStack especializado principalmen
 
 📫 Puedes contactarme en rubenteruel2004@gmail.com.
 
-CONOCIMIENTOS OBTENIDOS:
+AQUÍ UN LISTADO CON LOS CONOCIMIENTOS OBTENIDOS:
 
 ##### FRONTEND
 
