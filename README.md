@@ -8,7 +8,7 @@ AQUÍ UN LISTADO CON LOS CONOCIMIENTOS OBTENIDOS:
 
 ##### FRONTEND
 
-**Lenguajes:**
+	**Lenguajes:**
 
 <img src="https://serprogramador.com.ar/wp-content/uploads/2018/09/Html5_diseno_web-1.png" width="50" height="50"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50">
 
