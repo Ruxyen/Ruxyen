@@ -59,4 +59,4 @@ AQUÍ UN LISTADO CON LOS CONOCIMIENTOS OBTENIDOS:
 
 - PostgreSQL
 
--- Rubén Teruel --
+
