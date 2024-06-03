@@ -1,11 +1,11 @@
-Hi 👋, I'm Ruxyen
+Hola 👋, soy Ruxyen
 
-A FullStack developer, but my specialty is FrontEnd.
+Un desarrollador FullStack, pero mi especialidad es el FrontEnd.
 
-🔭 I’m currently working on ""
+🔭 Actualmente estoy trabajando en ""
 
-📫 How to reach me rubenteruel2004@gmail.com
+📫 Cómo contactarme: rubenteruel2004@gmail.com
 
-Languages and Tools:
+Lenguajes y Herramientas:
 
 aws bash bootstrap docker figma git java javascript linux mongodb nextjs photoshop postgresql react svelte tailwind typescript vuejs
