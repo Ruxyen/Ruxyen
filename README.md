@@ -42,7 +42,6 @@ AQUÍ UN LISTADO CON LOS CONOCIMIENTOS OBTENIDOS:
 
 - Symfony (framework PHP)
 - Lumen (framework PHP)
-- Ruby
 - Ruby on Rails (framework Ruby)
   
 #### LISTADO DE CONOCIMIENTO PENDIENTE:
