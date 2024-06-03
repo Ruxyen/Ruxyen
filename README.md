@@ -1,6 +1,6 @@
 Hola 👋, soy Ruxyen
 
-Un desarrollador FullStack, pero mi especialidad es el FrontEnd.
+Soy un desarrollador FullStack especialidado en el FrontEnd principalmente.
 
 🔭 Actualmente estoy disponible en mi portafolio, estoy disponible para aceptar una oferta de trabajo.
 
