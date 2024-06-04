@@ -35,8 +35,8 @@ AQUÍ UN LISTADO CON LOS CONOCIMIENTOS OBTENIDOS:
 
 **FRONTEND**
 
-- Angular
 - TypeScript
+- Angular (TypeScript)
 
 **BACKEND**
 
